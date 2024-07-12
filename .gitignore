@@ -1,0 +1,9 @@
+*/build
+*/env
+*/.env
+*/venv
+*/.venv
+*/*.spec
+*/__pycache__
+*/.pytest_cache
+*/.mypy_cache
